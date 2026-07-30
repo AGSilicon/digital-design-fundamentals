@@ -1,0 +1,23 @@
+
+# Simulation
+*.vcd
+*.vvp
+*.out
+*.log
+
+# Compiled files
+*.o
+*.obj
+*.exe
+
+# Temporary
+*.tmp
+*.bak
+
+# Editor
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
